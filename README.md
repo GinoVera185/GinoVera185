@@ -11,6 +11,5 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/GinoVera185/GinoVera185)
 
 ### :zap: Actividad reciente
-<!--STAR_SECTION: activities-->
-
-<!--END_SECTION: activities-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
