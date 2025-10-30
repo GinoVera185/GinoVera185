@@ -4,7 +4,7 @@
 
 :eyeglasses: **Amante de los datos Curiosos**
 
-:book: **Hablo Español como lengua principal and English as a secondary language**
+:book: **Hablo Español como lengua principal and English as a second language**
 
 ### Vias de contacto
 
