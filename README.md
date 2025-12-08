@@ -1,10 +1,10 @@
 ## Hi there, I'm Gino Vera 👋
 
 :student: **Estudiante de Ingenieria en sistemas de la Universiad Ecotect de Guayaquil, Ecuador**
-          **Systems Enginering student at Ecotec University in Guayaquil, Ecuador**
+          **/Systems Enginering student at Ecotec University in Guayaquil, Ecuador**
 
 :eyeglasses: **Interesado en el dessarrollo de Software**
-             **Interested in Software deplopment**
+             **/Interested in Software deplopment**
 
 :book: **Hablo Español como lengua principal and English as a second language**
 
