@@ -1,16 +1,16 @@
 ## Hi there, I'm Gino Vera 👋
 
 :student: **Estudiante de Ingenieria en sistemas de la Universiad Ecotect de Guayaquil, Ecuador**<br>
-          **/ Systems Enginering student at Ecotec University in Guayaquil, Ecuador**
+:student: **Systems Enginering student at Ecotec University in Guayaquil, Ecuador**
 
 :eyeglasses: **Interesado en el dessarrollo de Software**<br>
-             **/ Interested in Software deplopment**
+:eyeglasses: **Interested in Software deplopment**
 
 :book: **Hablo Español como lengua principal and English as a second language**
 
 ### Vias de contacto
-📧: **ginovera33@gmail.com**
-📧: **ginoverag@gmail.com**
+📧: **ginovera33@gmail.com**<br>
+📧: **ginoverag@gmail.com**<br>
 🔗: **www.linkedin.com/in/gino-vera-guato**
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/GinoVera185/GinoVera185)
