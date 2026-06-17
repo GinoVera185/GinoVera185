@@ -17,9 +17,10 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
-2. ⭐ Starred [animelhd/kawaii-animes](https://github.com/animelhd/kawaii-animes)<br>
+1. ⭐ Starred [CS-Edwards/textbooks](https://github.com/CS-Edwards/textbooks)<br>
+2. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
+3. ⭐ Starred [animelhd/kawaii-animes](https://github.com/animelhd/kawaii-animes)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 16th, 2026, 5:10:39 PM
+Last Updated: Wednesday, June 17th, 2026, 4:56:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
