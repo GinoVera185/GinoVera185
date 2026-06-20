@@ -19,8 +19,7 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [CS-Edwards/textbooks](https://github.com/CS-Edwards/textbooks)<br>
 2. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
-3. ⭐ Starred [animelhd/kawaii-animes](https://github.com/animelhd/kawaii-animes)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 19th, 2026, 3:34:46 PM
+Last Updated: Saturday, June 20th, 2026, 4:20:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
