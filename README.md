@@ -18,8 +18,7 @@
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [mouredev/hello-sql](https://github.com/mouredev/hello-sql)<br>
-2. ⭐ Starred [CS-Edwards/textbooks](https://github.com/CS-Edwards/textbooks)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 17th, 2026, 3:24:24 AM
+Last Updated: Friday, July 17th, 2026, 1:53:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
